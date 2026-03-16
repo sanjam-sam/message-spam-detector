@@ -85,15 +85,12 @@ Why this approach:
 Python/
 ├─ README.md
 ├─ requirements.txt
-├─ data/
-│  └─ paris_weather.csv
 └─ python-for-ai/
    ├─ app.py
    ├─ spam_detector.py
    ├─ spam_detector.html
    ├─ vectorizer.pkl
    ├─ spam_model.pkl
-   └─ ...other learning scripts
 ```
 
 ## How It Works Internally
